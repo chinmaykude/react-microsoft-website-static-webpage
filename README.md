@@ -2,7 +2,8 @@
 ##  A clone of Microsoft Website done for the Week 9 project using react.
 ### https://microsoft-static-webpage.now.sh/
 
-![MicrosoftStaticReact](https://user-images.githubusercontent.com/23414927/84552336-0740a780-ad2e-11ea-8e4b-e40ae6bbd260.jpg)
+
+![MicrosoftStaticReact](https://user-images.githubusercontent.com/23414927/84552446-5edf1300-ad2e-11ea-8983-80dde8309da4.jpg)
 
 <hr />
 <br />
