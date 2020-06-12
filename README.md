@@ -1,3 +1,10 @@
+# Microsoft Website Clone
+##  A clone of Microsoft Website done for the Week 9 project using react.
+### https://microsoft-static-webpage.now.sh/
+
+<hr />
+<br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
